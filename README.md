@@ -50,3 +50,10 @@ The PIC16F877A processes keypad inputs and controls the microwave operating mode
 ## Simulation Result
 
 ![Microwave Oven Simulation Result](results/project3result.png)
+
+## Project Highlights
+
+- Developed using PIC16F877A and Embedded C.
+- Implemented keypad and CLCD interfacing.
+- Used timers and interrupts for real-time control.
+- Tested the complete system using PICSimLab.
