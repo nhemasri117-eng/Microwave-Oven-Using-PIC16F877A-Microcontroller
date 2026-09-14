@@ -28,17 +28,17 @@ An embedded C-based microwave oven controller developed using the PIC16F877A mic
 ## Project Structure
 
 
-src/
-├── main.c
-├── micro_oven.c
-├── micro_oven.h
-├── clcd.c
-├── clcd.h
-├── matrix_keypad.c
-├── matrix_keypad.h
-├── timers.c
-├── timers.h
-└── isr.c
+ src
+ main.c
+ micro_oven.c
+ micro_oven.h
+ clcd.c
+ clcd.h
+ matrix_keypad.c
+ matrix_keypad.h
+ timers.c
+ timers.h
+ isr.c
 
 results/
 └── Simulation and output images
